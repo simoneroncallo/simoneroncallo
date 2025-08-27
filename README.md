@@ -23,7 +23,7 @@ Below are some of the projects I've worked on. See [Repositories](https://github
 | [Quantum optical neuron](https://github.com/simoneroncallo/quantum-optical-neuron) | Quantum artificial neuron using the Hong-Ou-Mandel effect | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) | [![arXiv](https://img.shields.io/badge/-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2404.15266) |
 | [Quantum JPEG](https://github.com/simoneroncallo/quantum-jpeg) | Quantum algorithm for image downsampling and compression | ![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?logo=qiskit&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | [![arXiv](https://img.shields.io/badge/-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2306.09323) |
 
-### 🚀 Other Projects 
+### 🚀 Personal Projects 
 | Repository | Description | Libraries | 
 |------------|-------------|:-----------:|
 | [Particle filtering](https://github.com/simoneroncallo/particle-filtering) | Localization and tracking with sequential Monte Carlo methods | ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |  
