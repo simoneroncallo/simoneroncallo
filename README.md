@@ -13,6 +13,17 @@ Below are some of the projects I've worked on. See [Repositories](https://github
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4.svg?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_N9uN3MAAAAJ&view_op=list_works&sortby=pubdate)
 [![arXiv](https://img.shields.io/badge/-arXiv-b31b1b?logo=arxiv&logoColor=white)](http://arxiv.org/a/roncallo_s_1)
 
+**🔨 Tools**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) 
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?logo=qiskit&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-1E1E2F?logo=pytorch&logoColor=EE4C2C)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![SymPy](https://img.shields.io/badge/-SymPy-3B5526?logo=sympy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+
 ---
 
 ### 📝 Research Projects
