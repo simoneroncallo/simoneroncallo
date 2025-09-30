@@ -2,7 +2,7 @@
 
 I am a **PostDoc in Physics** at the University of Pavia, conducting research, development and test of algorithms and protocols for **Quantum Computing**, **Quantum Optics** and **Machine Learning**. 
 
-🌱 I usually code in `Python`, using Qiskit or Keras for high-level quantum and machine learning projects, or Numpy and Scipy for low-level optical applications and Monte Carlo simulations.<br>
+🌱 I usually code in `Python`, using Qiskit or Keras for quantum and machine learning projects, or Numpy and Scipy for low-level optical applications and Monte Carlo simulations.<br>
 🔗 Visit my website [simoneroncallo.com](https://www.simoneroncallo.com/) for up-to-date information about my activities and research. You can also reach me at simone.roncallo01@ateneopv.it.
 
 Below are some of the projects I've worked on. See [Repositories](https://github.com/simoneroncallo?tab=repositories) for a complete list. Thanks for reading!
