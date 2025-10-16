@@ -21,7 +21,9 @@ Below are some of the projects I've worked on. See [Repositories](https://github
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-1E1E2F?logo=pytorch&logoColor=EE4C2C)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![SymPy](https://img.shields.io/badge/-SymPy-3B5526?logo=sympy&logoColor=white)
+![PennyLane](https://img.shields.io/badge/-PennyLane-0095D5?style=flat&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 
 ---
