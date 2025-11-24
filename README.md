@@ -22,11 +22,14 @@ Below some of the projects I've worked on. See [Repositories](https://github.com
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF7A00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white)
+![PennyLane](https://img.shields.io/badge/-PennyLane-0095D5?style=flat&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=bash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![SymPy](https://img.shields.io/badge/-SymPy-3B5526?logo=sympy&logoColor=white)
-![PennyLane](https://img.shields.io/badge/-PennyLane-0095D5?style=flat&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=bash&logoColor=white)
+
 
 ---
 
