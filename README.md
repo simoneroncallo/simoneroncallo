@@ -27,6 +27,7 @@ Below some of the projects I've worked on. See [Repositories](https://github.com
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![SymPy](https://img.shields.io/badge/-SymPy-3B5526?logo=sympy&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 
