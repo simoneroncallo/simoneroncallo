@@ -50,5 +50,5 @@ Below some of the projects I've worked on. See [Repositories](https://github.com
 ### 🚀 Personal Projects 
 | Repository | Description | Tools | 
 |------------|-------------|:-----------:|
-| [Particle filtering](https://github.com/simoneroncallo/particle-filtering) | Localization and tracking with Monte Carlo methods | ![SciPy](https://img.shields.io/badge/%20-%20-8CAAE6?logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/%20-%20-013243?logo=numpy&logoColor=white) |  
+| [Particle filtering](https://github.com/simoneroncallo/particle-filtering) | Localization and tracking with Monte Carlo | ![SciPy](https://img.shields.io/badge/%20-%20-8CAAE6?logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/%20-%20-013243?logo=numpy&logoColor=white) |  
 | [Classifier decision boundary](https://github.com/simoneroncallo/classifier-decision-boundary) | Animated decision boundary for binary classification | ![Keras](https://img.shields.io/badge/%20-%20-D00000?logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/%20-%20-013243?logo=numpy&logoColor=white) |
