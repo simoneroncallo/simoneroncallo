@@ -32,6 +32,7 @@ Below some of the projects I've worked on. See [Repositories](https://github.com
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=bash&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
 
 ---
@@ -50,5 +51,11 @@ Below some of the projects I've worked on. See [Repositories](https://github.com
 ### 🚀 Personal Projects 
 | Repository | Description | Tools | 
 |------------|-------------|:-----------:|
-| [Particle filtering](https://github.com/simoneroncallo/particle-filtering) | Localization and tracking with Monte Carlo | ![SciPy](https://img.shields.io/badge/%20-%20-8CAAE6?logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/%20-%20-013243?logo=numpy&logoColor=white) |  
-| [Classifier decision boundary](https://github.com/simoneroncallo/classifier-decision-boundary) | Animated decision boundary for binary classification | ![Keras](https://img.shields.io/badge/%20-%20-D00000?logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/%20-%20-013243?logo=numpy&logoColor=white) |
+| [Hardware telemetry](https://github.com/simoneroncallo/hw-telemetry) | Hardware usage shared via Telegram API for Unix systems | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |  
+<!--| [Particle filtering](https://github.com/simoneroncallo/particle-filtering) | Localization and tracking with Monte Carlo | ![SciPy](https://img.shields.io/badge/%20-%20-8CAAE6?logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/%20-%20-013243?logo=numpy&logoColor=white) |  
+| [Classifier decision boundary](https://github.com/simoneroncallo/classifier-decision-boundary) | Animated decision boundary for binary classification | ![Keras](https://img.shields.io/badge/%20-%20-D00000?logo=keras&logoColor=white) ![NumPy](https://img.shields.io/badge/%20-%20-013243?logo=numpy&logoColor=white) | -->
+
+<p align="left">
+  <a href="https://github.com/simoneroncallo/particle-filtering"> <img src="https://github.com/simoneroncallo/simoneroncallo/blob/main/images/evolution.gif" width="300" height="300" /> </a> &nbsp;
+  <a href="https://github.com/simoneroncallo/classifier-decision-boundary"> <img src="https://github.com/simoneroncallo/simoneroncallo/blob/main/images/expressivity.gif" width="300" height="300" /> </a>
+</p>
